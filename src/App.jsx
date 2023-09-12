@@ -50,7 +50,7 @@ export default function App() {
      * -  JS Method can be used to return a new
      *    array that has filtered out an item based 
      *    on a condition? -> splice() can remove an item at a given index 
-     * 2. Notice the parameters being based to the function
+     * - Notice the parameters being based to the function
      *    and think about how both of those parameters
      *    can be passed in during the onClick event handler
      */
